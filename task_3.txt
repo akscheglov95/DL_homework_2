@@ -1,4 +1,4 @@
-Message-ID.*[\r\n]Date:.*(0(0|1|2):..:..|03:00:00)
+Message-ID.*[\r\n](?=Date:.*(0(0|1|2):..:..|03:00:00))
 310
 "allen-p/_sent_mail/100.","Message-ID: <24216240.1075855687451.JavaMail.evans@thyme>
 "allen-p/_sent_mail/101.","Message-ID: <20641191.1075855687472.JavaMail.evans@thyme>
